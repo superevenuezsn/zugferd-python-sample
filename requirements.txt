@@ -1,0 +1,4 @@
+drafthorse>=2025.2.0
+factur-x>=7.1
+reportlab>=4.0
+pypdf>=4.0
